@@ -1,4 +1,4 @@
-import { Shift } from '/Shift.js'
+import { Shift } from './Shift.js'
 
 const submit = () => {
   const date = document.getElementById('date').value
