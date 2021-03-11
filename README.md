@@ -14,6 +14,8 @@ Lopuksi luokka laskee itselleen propertyn length, joka kuvaa validin työvuoron 
 Luokka ei säilytä/tallenna annettuja parametreja propertyinä.
 Se ainoastaan validoi ne ja asettaa pituuden vuorolle.
 
+[GitHub Pages -sivu](https://deeroil.github.io/visma-shift/)
+
 ---
 
 Miten ymmärsin annetun ongelman:
